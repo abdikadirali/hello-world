@@ -1,6 +1,6 @@
 ![Moringa HTML+CSS](https://raw.githubusercontent.com/abdikadirali/first-webpage/master/img/mor.png)
 
-Welcome to Moringa School Self Assessments Exercises!
+Welcome to Moringa School Self Assessment Exercises!
 =======================
 
 ### This repository holds Moringa Prep Facilitation Exercises.
